@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳
-#+DATE: 2015-09-23 09:39:21
+#+DATE: 2015-09-10 22:50:18.356237
+#+PROPERTY: ID KR1e0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 7
+#+PROPERTY: FILE SB01n0016-007春秋穀梁傳-卷第七.
 <pb:KR1e0009_SBCK_007-1a>¶
 (以自輔恥賂/之故書齊取)○秋邾子來朝(○朝直/遥反)○楚子鄭人侵陳¶
 遂侵宋遂繼事也○晉趙盾帥師救陳善救陳也¶
@@ -224,4 +228,3 @@
 　　　　　注貳阡壹伯陸拾伍字¶
 　　　　　音義柒伯貳拾貳字¶
 　　　　　　　　　　　　仁仲比校訖¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳
-#+DATE: 2015-09-23 09:39:21
+#+DATE: 2015-09-10 22:50:18.562072
+#+PROPERTY: ID KR1e0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB01n0016-012春秋穀梁傳-卷第十二.
 <pb:KR1e0009_SBCK_012-1a>¶
 春秋榖梁傳哀公第十二(○哀公名&KR0253;敬王/二十六年即位)¶
 　　　　　　　　　　范&KR0478;集解¶
@@ -187,4 +191,3 @@
 　　　　　　　　　國學進士張　甫　同校¶
 　奉議郎簽書武安軍節度判官㕔公事陳　應行參校¶
 <pb:KR1e0009_SBCK_012-9a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳
-#+DATE: 2015-09-23 09:39:21
+#+DATE: 2015-09-10 22:50:18.393952
+#+PROPERTY: ID KR1e0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 8
+#+PROPERTY: FILE SB01n0016-008春秋穀梁傳-卷第八.
 <pb:KR1e0009_SBCK_008-1a>¶
 爲也(各有業也/○夫音符)丘作甲非正也○夏臧孫許及晉侯¶
 盟于赤&KR0068;(赤&KR0068;/晉地)○秋王師敗績于貿戎(貿戎地〇貿/音荗左氏作)¶
@@ -293,4 +297,3 @@
 　　　　　注貳阡伍伯伍拾肆字¶
 　　　　　音義柒伯&KR0380;拾叄字¶
 　　　　　　　　　　　　仁仲　比　校訖¶
-

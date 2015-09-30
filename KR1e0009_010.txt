@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳
-#+DATE: 2015-09-23 09:39:21
+#+DATE: 2015-09-10 22:50:18.480433
+#+PROPERTY: ID KR1e0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB01n0016-010春秋穀梁傳-卷第十.
 <pb:KR1e0009_SBCK_010-1a>¶
 春秋穀梁傳昭公第十(〇昭公名稠景/王四年即位)¶
 　　　　　　　　　范&KR0478;集解¶
@@ -361,4 +365,3 @@
 　　　　　音義壹阡零陸拾字¶
 　　　　　　　　　　　仁仲比校訖¶
 <pb:KR1e0009_SBCK_010-16a>¶
-

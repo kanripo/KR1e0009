@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳
-#+DATE: 2015-09-23 09:39:21
+#+DATE: 2015-09-10 22:50:18.103050
+#+PROPERTY: ID KR1e0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB01n0016-001春秋穀梁傳-卷第一.
 <pb:KR1e0009_SBCK_001-1a>¶
 春秋榖梁傳隱公第一(○隱公名息姑惠公之子周文/王八丗孫平王四十尢年即位)¶
 　　　　　　　　　　　范&KR0478;集解¶
@@ -304,4 +308,3 @@
 　　　　　　注肆阡陸伯伍拾叄字¶
 　　　　　　音義壹阡肆伯貳拾柒字¶
 　　　　　　　　　　　　　　仁仲比校訖¶
-

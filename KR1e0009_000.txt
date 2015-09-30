@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳
-#+DATE: 2015-09-23 09:39:21
+#+DATE: 2015-09-10 22:50:18.068825
+#+PROPERTY: ID KR1e0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB01n0016-000春秋穀梁傳-序.
 <pb:KR1e0009_SBCK_000-1a>¶
 春秋榖梁傳序¶
 昔周道衰陵乾綱絶紐(○乾其連反天/也紐女乆反)禮壊樂崩彝¶
@@ -86,4 +90,3 @@
 ¶
 　　　　　　　　　　　余氏萬卷¶
 　　　　　　　　　　　堂蔵書記¶
-

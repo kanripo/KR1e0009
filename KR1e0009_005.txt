@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳
-#+DATE: 2015-09-23 09:39:21
+#+DATE: 2015-09-10 22:50:18.266147
+#+PROPERTY: ID KR1e0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 5
+#+PROPERTY: FILE SB01n0016-005春秋穀梁傳-卷第五.
 <pb:KR1e0009_SBCK_005-1a>¶
 春秋榖梁傳僖公第五(○名申惠王/十八年即位)¶
 　　　　　　　　　　　范&KR0478;集解¶
@@ -601,4 +605,3 @@
 　　　　　　　音義壹阡捌伯壹拾字¶
 　　　　　　　　　　　余　仁仲刋于家塾¶
 <pb:KR1e0009_SBCK_005-27a>¶
-

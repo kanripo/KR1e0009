@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳
-#+DATE: 2015-09-23 09:39:21
+#+DATE: 2015-09-10 22:50:18.434812
+#+PROPERTY: ID KR1e0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 9
+#+PROPERTY: FILE SB01n0016-009春秋穀梁傳-卷第九.
 <pb:KR1e0009_SBCK_009-1a>¶
 春秋榖梁傳襄公第九(〇襄公名午簡/王十四年即位)¶
 　　　　　　　　　　范&KR0478;集解¶
@@ -386,4 +390,3 @@
 春秋榖梁卷第九¶
 　　經傳肆阡陸伯捌拾&KR0380;字　&KR0380;拾壹字¶
 　　音義&KR0380;伯零單肆字　千家塾¶
-

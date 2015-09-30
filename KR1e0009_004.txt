@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋穀梁傳
-#+DATE: 2015-09-23 09:39:21
+#+DATE: 2015-09-10 22:50:18.230946
+#+PROPERTY: ID KR1e0009
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB01n0016-004春秋穀梁傳-卷第四.
 <pb:KR1e0009_SBCK_004-1a>¶
 春秋榖梁傳閔公第四(○名開惠王/十六年即位)¶
 　　　　　　　　　　　范&KR0478;集解¶
@@ -43,4 +47,3 @@
 　　　　注肆伯陸拾字¶
 　　　　音義壹伯陸拾貳字¶
 　　　　　　　　　　余　仁仲刋于家塾¶
-
